@@ -1,4 +1,4 @@
-# 🚀 AI Career Coach - Hackathon Project
+# 🚀Hirelytic
 
 Welcome to **AI Career Coach**, your personal AI-powered guide to professional success!  
 This project was built for the **Code For Change** and helps users with career advancement, interview preparation, and job search strategies.
